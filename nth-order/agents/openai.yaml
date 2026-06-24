@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nth Order"
+  short_description: "Trace strategic consequences of change"
+  default_prompt: "Use $nth-order to analyze the second-, third-, and fourth-order implications of [development] for [company or industry]."
