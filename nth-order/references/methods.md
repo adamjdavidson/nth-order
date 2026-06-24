@@ -28,7 +28,7 @@ Use scenarios only when critical uncertainties produce meaningfully different ch
 
 Transaction-cost economics is useful when a change affects the cost of discovering counterparts, contracting, coordinating, verifying, monitoring, or adapting across boundaries. Ask whether the economics favor markets, firms, networks, or new hybrids—but do not reduce the answer to transaction costs alone. Account for control, incentives, trust, integration difficulty, regulation, proprietary assets, and power.
 
-- [Coase — *The Nature of the Firm*](https://overvale.com/papers/Coase%20-%20The%20Nature%20of%20the%20Firm.pdf)
+- [Coase — *The Nature of the Firm*](https://www.jstor.org/stable/2626876)
 
 ## Practical quality checks
 
